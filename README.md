@@ -1,3 +1,7 @@
+![Visualization of the codebase](./diagram.svg)
+
+
+
 # scGPT
 
 This is the official codebase for **scGPT: Towards Building a Foundation Model for Single-Cell Multi-omics Using Generative AI**.
